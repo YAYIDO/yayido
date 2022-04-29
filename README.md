@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-    google-site-verification: google948c0b33324a76c1.html
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
